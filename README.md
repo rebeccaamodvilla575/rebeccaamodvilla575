@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm rebeccaamodvilla575
 
-<!--
-**rebeccaamodvilla575/rebeccaamodvilla575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 🏏 🚵 Exploring the world of UI/UX design 🎯 🏏 🚵
 
-Here are some ideas to get you started:
+## About Me
+🎧 🚵 🎳 Dedicated to mastering augmented reality 🎧 🚵 🎳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🎳 🎸 📚 A professional in data structures 🛹 🎳 🎸 📚
+
+### Fun Facts
+🚴 🏏 Always learning about technologies 🚴 🏏
+
+---
+🏒 🏊 🎨 🏓 🎽 Thanks for visiting my profile! 🏄 🚵 🎳 🎾 🎳
